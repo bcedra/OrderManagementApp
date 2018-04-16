@@ -3,9 +3,9 @@ Order Management Application – Java Project with UI and SQL connection
 
 ## Description
 -	Graphical interface:
-  Window for client operations: add new client, edit client, delete client, view all
+ - Window for client operations: add new client, edit client, delete client, view all
 clients in a table 
-  Window for product operations: add new product, edit product, delete product,
+ - Window for product operations: add new product, edit product, delete product,
 view all product in a table 
 
 -	Create a product order for a client: the application user will be able to select an existing
