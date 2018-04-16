@@ -12,3 +12,5 @@ view all product in a table
 product, select an existing client, and insert a desired quantity for the product to create a
 valid order. In case that there are not enough products, an under stock message will be
 displayed. After the order is finalized, the product stock is decremented, and the customer will receive an email with bill and order information.
+
+- JUnit Tests
